@@ -26,3 +26,9 @@ Solution requirements:
 - A character may have more than one spell or item at their disposal
 - Races, classes, backgrounds, spells, and items may belong to more than one character
 
+Images
+
+![er-diagram](/imgs/er-diagram.png)
+![character-table](/imgs/char-table.png)
+![add-spell](/imgs/add-spell.png)
+![db-sample](/imgs/db-sample.PNG)
